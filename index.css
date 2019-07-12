@@ -1,9 +1,26 @@
 h1{
   color: brown;
-
+  font-size: 50px;
+  margin-bottom: -10px;
 }
 #idk{
 
-  margin-left: 70px;
+  margin-left: 40px;
   color: green;
+  font-size: 30px;
+}
+p{
+  font-size: 18px;
+  margin-left: 20px;
+}
+img{
+  height: 350px;
+  margin: 50px;
+}
+body{
+  background-color: lightblue;
+}
+h2{
+  font-size: 35px;
+  margin-left: 15px;
 }
